@@ -1,9 +1,10 @@
 # Hello, I am Noah Fisher! 👋
 
-## I'm a Software Engineer who is early in their career!
+## I'm a Front-End Software Engineer!
 
 - 🔭 Check out my portfolio: [noahfisher.dev](https://www.noahfisher.dev/)
 - 🌱 I’m currently learning how back-end web development functions!
+- Just started One Piece... Wish me luck!
 
 ### Languages and Tools:
 

@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer who is early in their career!
 
-- 🔭 Check out my portfolio: [website](https://www.noahfisher.dev/)
+- 🔭 Check out my portfolio: [noahfisher.dev](https://www.noahfisher.dev/)
 - 🌱 I’m currently learning how back-end web development functions!
 
 ### Languages and Tools:

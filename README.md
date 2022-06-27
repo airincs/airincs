@@ -1,6 +1,6 @@
 # Hello, I am Noah Fisher! 👋
 
-## I'm a Data Analyst with a personal hobbyist interest in Full-Stack Web Development!
+## I'm a Data Analyst and a hobbyist Full-Stack Web Development!
 
 - 🔭 Check out my portfolio: [noahfisher.dev](https://www.noahfisher.dev/)
 - 🌱 I’m currently studying Data Structures and Algorithms!

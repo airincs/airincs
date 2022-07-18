@@ -1,10 +1,9 @@
 # Hello, I am Noah Fisher! 👋
 
-## I'm a Data Analyst and a hobbyist Full-Stack Web Development!
+## I'm a Data Analyst
 
 - 🔭 Check out my portfolio: [noahfisher.dev](https://www.noahfisher.dev/)
-- 🌱 I’m currently studying Data Structures and Algorithms!
-- Just started One Piece... Wish me luck!
+- 🌱 I’m currently refreshing my SQL skills!
 
 ### Languages and Tools:
 

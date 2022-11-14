@@ -1,4 +1,6 @@
-# Hello, I am Airin! I believe that having reliable sources, storage, and classification of quality data should be the highest priority of any project or company.
+# Hello, I am Airin!
+
+I believe that having reliable sources, storage, and classification of quality data should be the highest priority of any project or company.
 
 My mission is to use data engineering in order to manifest the prior.
 

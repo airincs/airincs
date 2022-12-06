@@ -1,6 +1,10 @@
 # Hello, I am Airin!
 
-I've previously learned and gotten comfortable with React and general front-end development; however, my attention is now on learning backend engineering! C# in particular!
+:sparkles:
+I've previously learned and gotten comfortable with React and general front-end development; however, my attention is now on learning backend engineering! C# in particular! I've dabbled in Python's Django and Java's Spring, but C# and NET catches my eye the most :heartpulse:
+
+My public repositories include some full-stack projects that I have previously made! In particular React + NodeJS.
+:sparkles:
 
 ### Languages and Tools:
 

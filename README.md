@@ -1,4 +1,4 @@
-# Hello, I am Airin!
+# Hello, I am Airin! :love_letter:
 
 :sparkles:
 I've previously learned and gotten comfortable with React and general front-end development; however, my attention is now on learning backend engineering! C# in particular! I've dabbled in Python's Django and Java's Spring, but C# and NET catches my eye the most :heartpulse:

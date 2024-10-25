@@ -1,7 +1,7 @@
 # Hello, I'm Noah!
 
 :sparkles:
-I'm on a mission to become an excellent data analyst/engineer! I have dabbled in many different areas of software development; however, data engineering work has captivated me the most! I have experience as a data analyst (with  data engineering adjacent responsibilities), and I find that providing high quality data is the most important and rewarding activity a person or company can do. I have experience and personal projects in many different areas of data engineering, feel free to take a look! 
+I'm on a mission to become an excellent data analyst/engineer! I have dabbled in many different areas of software development; however, data engineering work has captivated me the most! I have experience as a data analyst (with  data engineering adjacent responsibilities), and I find that providing high quality data is the most important and rewarding activity a person or company can do. I have personal projects in many different areas of data engineering/analytics, feel free to take a look! 
 :sparkles:
 
 ### Languages and Tools:
